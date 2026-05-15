@@ -94,3 +94,92 @@ Assets/
 ├── Animations/
 ├── Scenes/
 └── UI/
+```
+
+---
+
+# Core Gameplay Loop
+
+1. Explore
+2. Find Fuse
+3. Analyze Clue
+4. PUSH Fuse
+5. Validate Stack
+6. POP if Wrong
+7. Escape
+
+---
+
+# Kontrol
+
+| Tombol | Fungsi |
+| --- | --- |
+| WASD | Bergerak |
+|Mouse | Melihat |
+|Shift | Sprint |
+|E | Interaksi |
+| ESC | Pause |
+
+---
+
+# Tim Pengembang 
+
+Kelompok Stack — UBSI Pontianak
+
+- Role
+- Programmer
+- Level Designer
+- 3D Artist
+- Audio Designer
+- UI Designer
+
+---
+
+# Status Development
+## Current Stage
+
+🚧 Prototype Development
+
+### Progress
+- FPS Controller
+- Interaction System
+- Stack System
+- Puzzle Validation
+- Horror System
+- UI System
+- Final Polish
+
+---
+
+# Target Platform
+- Windows PC
+
+--- 
+
+# Tujuan Proyek
+
+Tujuan utama proyek ini adalah:
+
+- Mengimplementasikan struktur data Stack ke dalam gameplay
+- Membuat media pembelajaran interaktif
+- Menampilkan proyek edukatif pada pameran kampus
+
+---
+
+# Screenshot
+
+> Coming Soon
+
+---
+
+# License
+
+This project is developed for educational purposes.
+
+---
+
+# Credits
+
+Developed by Kelompok Stack
+UBSI Pontianak
+2026
